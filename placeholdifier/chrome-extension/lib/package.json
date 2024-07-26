@@ -1,0 +1,18 @@
+{
+  "name": "placeholdifier",
+  "description": "Turn HTML into a live wireframe",
+  "version": "0.2.2",
+  "keywords": [
+    "placeholder",
+    "skeleton",
+    "html",
+    "css",
+    "style",
+    "mask",
+    "streaming",
+    "wireframe"
+  ],
+  "homepage": "https://github.com/pomber/placeholdifier#readme",
+  "license": "MIT",
+  "repository": "pomber/placeholdifier"
+}
